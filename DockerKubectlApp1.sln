@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App1", "App1.csproj", "{462C8D0C-C345-4C88-AF4B-81A91DAD23C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockerKubectlApp1", "DockerKubectlApp1.csproj", "{462C8D0C-C345-4C88-AF4B-81A91DAD23C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

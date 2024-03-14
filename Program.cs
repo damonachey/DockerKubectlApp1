@@ -6,7 +6,7 @@
 
         var nowMst = TimeZoneInfo.ConvertTime(DateTime.Now, TimeZoneInfo.FindSystemTimeZoneById("Mountain Standard Time"));
 
-        app.MapGet("/", () => $"{nowMst:MM/dd/yyyy hh:mm:ss tt}: Hello from App1.");
+        app.MapGet("/", () => $"{nowMst:MM/dd/yyyy hh:mm:ss tt}: Hello from DockerKubectlApp1.");
 
         app.Run("http://+:5000");
     }
